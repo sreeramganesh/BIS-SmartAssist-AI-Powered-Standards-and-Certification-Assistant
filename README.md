@@ -679,15 +679,13 @@ Used for standard conversational questions.
 
 Example question:
 
-```text
-Explain the purpose of BIS certification.
-```
+<img width="1902" height="912" alt="home page " src="https://github.com/user-attachments/assets/b0ba7d59-8d61-4f54-b71d-1dfb40229540" />
+
 
 ### 2. Document-Based Chat
 
-```http
-POST /api/chat-with-files
-```
+<img width="1917" height="911" alt="response page " src="https://github.com/user-attachments/assets/c2063e4e-f5cc-48c2-a7ac-73fe68441195" /> 
+
 
 Used when users want to submit documents along with their questions.
 
