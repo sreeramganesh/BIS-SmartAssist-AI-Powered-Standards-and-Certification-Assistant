@@ -1,0 +1,10 @@
+{
+  "name": "bis-smartassist-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./bis-smartassist run dev",
+    "build": "npm --prefix ./bis-smartassist run build",
+    "preview": "npm --prefix ./bis-smartassist run preview",
+    "start": "npm run dev"
+  }
+}

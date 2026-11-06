@@ -1,0 +1,28 @@
+# ============================================================
+# BIS SmartAssist - Backend Dependencies
+# Pinned to tested, compatible versions from the active environment
+# ============================================================
+
+# Web framework & ASGI server
+fastapi==0.148.0
+uvicorn==0.54.0
+starlette==1.6.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.3
+
+# File uploads & Multimodal processing
+python-multipart==0.0.33
+pymupdf==1.28.2
+Pillow==13.0.0
+pytesseract==0.3.13
+
+# HTTP Client (Ollama communication & test client)
+requests==2.34.2
+httpx==0.28.1
+
+# Vector database & Embeddings
+chromadb==1.5.9
+sentence-transformers==6.0.1
+torch==2.14.0
+numpy==2.5.2
